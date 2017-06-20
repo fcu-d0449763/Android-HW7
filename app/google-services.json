@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "936857976319",
+    "firebase_url": "https://hotel-1c66b.firebaseio.com",
+    "project_id": "hotel-1c66b",
+    "storage_bucket": "hotel-1c66b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936857976319:android:cecf41b23858bdb1",
+        "android_client_info": {
+          "package_name": "com.example.feilin.home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936857976319-82a5a4b5q23bmkjhtanb8l4q7nga9t7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.feilin.home",
+            "certificate_hash": "b0c9f8e2f9b99b2984a0a5bd96a7f76a208bd2b9"
+          }
+        },
+        {
+          "client_id": "936857976319-i0gsrmojrvd3fsopl37tv4vq1di7ps7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm0pIbGs5ceFxNsl2vt-eG2i-EMyfJifI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936857976319-i0gsrmojrvd3fsopl37tv4vq1di7ps7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
